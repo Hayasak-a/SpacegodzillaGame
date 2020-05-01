@@ -1,0 +1,47 @@
+Name:Shannon Master
+Date:5/1/2020
+
+Project: Corona Tetris
+Group's repository: https://github.com/kittenatheart/SpacegodzillaGame
+
+
+
+What is something you learned by reviewing this group's project?
+that you can put animations in like their end-screen animation
+ 
+
+In what ways does this game reflect the theme?
+It incorporates essential items - masks, gloves, soap, etc - into a simple Tetris game.
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I love the instructions page on the main menu and the menu music loops super well too, love the feel it gives the game right off the bat
+ 
+
+What suggestions would you have for this group to improve the game?
+Using a different block for the boarder, or not using the masks as placeable blocks
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+I didn't quite understand the use of game states or how they implemented the end game animation.
+ 
+
+Is it clear that every group member participated?
+It seems like there were three who contributed the most to the actual making of the game.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+What software was used to make the sound and art assets.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+This feels like a very polished game and I could jam to this music forever tbh.
+
+
+How many of your points would you allocate to this project?
+3.5
+
