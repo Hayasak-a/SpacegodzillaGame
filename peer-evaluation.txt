@@ -1,0 +1,35 @@
+Name: Jocelyn Beedie
+Date: May 2nd, 2020
+
+Project: Corona Tetris
+Group's repository: https://github.com/Jellonator/SpacegodzillaGame
+
+What is something you learned by reviewing this group's project?
+I like how the scene for managing the currently falling tile is separate from the actual Tilemap that holds the fallen tiles, which allows for the falling tile to be more easily managed.
+
+In what ways does this game reflect the theme?
+All of the tetris blocks have corona-virus related textures.
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I like the "_get_input_keys()" function in the "title.gd" file that is used to get the names for the inputs, and then shows those input names to the user.
+
+What suggestions would you have for this group to improve the game?
+For some reason, the board keeps being cleared in-editor, meaning that the game is unplayable until the border is added back in.
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+The board.gd file isn't well documented and it's kinda difficult to follow along on what it's doing. I think the issue that I had with the border being erased periodically is in there somewhere.
+
+Is it clear that every group member participated?
+Yes
+
+Does the repository contain an appropriate LICENSE?
+Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+The README is descriptive enough, but it could be better organized for readability.
+
+Pay a compliment to the group based on the quality of the game.
+The music is really good and it plays just like Tetris.
+
+How many of your points would you allocate to this project?
+1
