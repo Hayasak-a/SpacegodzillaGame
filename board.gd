@@ -1,4 +1,3 @@
-tool
 extends Node2D
 
 signal pause
@@ -200,7 +199,6 @@ func _generate_block_queue():
 
 func _drop_block():
 	_move_block(Vector2(0, 1), 0)
-
 	if not _is_block_space_empty(_block.block_position + Vector2(0, 1),
 			_block.block_rotation):
 		if _grace:
@@ -218,7 +216,6 @@ func _drop_block_fast():
 func _move_block(pos, rot):
 	var new_pos = _block.block_position + pos
 	var new_rot = _block.block_rotation + rot
-
 	if _is_block_space_empty(new_pos, new_rot):
 		_block.block_position = new_pos
 		_block.block_rotation = new_rot

@@ -53,21 +53,27 @@ alignment = 1
 [node name="start" type="Button" parent="VBoxContainer/CenterContainer/VBoxContainer"]
 margin_right = 126.0
 margin_bottom = 37.0
+focus_mode = 0
 theme = ExtResource( 4 )
+enabled_focus_mode = 0
 text = "Start"
 
 [node name="instructions" type="Button" parent="VBoxContainer/CenterContainer/VBoxContainer"]
 margin_top = 41.0
 margin_right = 126.0
 margin_bottom = 78.0
+focus_mode = 0
 theme = ExtResource( 4 )
+enabled_focus_mode = 0
 text = "Instructions"
 
 [node name="quit" type="Button" parent="VBoxContainer/CenterContainer/VBoxContainer"]
 margin_top = 82.0
 margin_right = 126.0
 margin_bottom = 119.0
+focus_mode = 0
 theme = ExtResource( 4 )
+enabled_focus_mode = 0
 text = "Quit"
 
 [node name="instructions_popup" type="Popup" parent="."]
