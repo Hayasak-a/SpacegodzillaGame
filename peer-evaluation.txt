@@ -1,0 +1,51 @@
+Name: Dalton Gobel
+Date: 5/1/20
+
+Project: SpaceGodzillaGame
+Group's repository: https://github.com/Hayasak-a/SpacegodzillaGame
+
+
+
+What is something you learned by reviewing this group's project?
+
+ I learned that you can implement more features such as a pause option within the game.
+
+
+In what ways does this game reflect the theme?
+
+ I'm honestly not certain how it reflects the coronavirus...
+
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+
+ I would like to apply an instruction screen. I thought that was pretty cool. 
+
+
+What suggestions would you have for this group to improve the game?
+There are some bugs that need to be fixed. If you press space, the game crashes, at least for me. I think the floor needs to be fixed where the blocks will not fall below the screen as well.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+I thought the script was laid out very well.
+ 
+
+Is it clear that every group member participated?
+Yes, they noted in the read me that each member contributed their parts.
+ 
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes. I like "SpaceGodzillaGroup".
+
+What is something the group could add to the README.md to make it more descriptive?
+
+ I think the README.md was very descriptive.
+
+
+Pay a compliment to the group based on the quality of the game.
+
+There are minor bugs, but the coding and design of the game are good. 
+
+How many of your points would you allocate to this project?
+
+3.5/5
