@@ -1,0 +1,47 @@
+Name:Haoyu Lin
+Date:2020/5/2
+
+Project: 
+Group's repository: 
+SpacegodzillaGame
+
+
+What is something you learned by reviewing this group's project?
+This game is similar to the game Tetris, i learned that i can put some animation in the end scene, now i know how people made Tetris.
+ 
+
+In what ways does this game reflect the theme?
+You need to prevent the box to go over the screen, by doing that the player need to form a line that fill with boxes. Then it can eliminate that line
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+This is a game that suit for phone, it can help people to relax, i want to apply to this idea, like a simple game that many people will play it in their spare time.
+ 
+
+What suggestions would you have for this group to improve the game?
+You guys can make more animation like the box explode or when it hit the ground, also you can add more sound effect.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+NO.
+ 
+
+Is it clear that every group member participated?
+Yes.
+ 
+
+Does the repository contain an appropriate LICENSE?
+I think the License need to put every group member in it.
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+You can add a story like why this box need to be eliminated.
+ 
+
+Pay a compliment to the group based on the quality of the game.
+This is a classic game and you guys apply the idea coronavirus in it. This is great and you add sound effect and the animation when game over, also there is a pause key. 
+
+
+How many of your points would you allocate to this project?
+4.8
+
