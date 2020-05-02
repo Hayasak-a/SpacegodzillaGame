@@ -1,0 +1,47 @@
+Name:Emily Garvey
+Date:5/2/2020
+
+Project: Spacegodzilla
+Group's repository: https://github.com/Hayasak-a/SpacegodzillaGame
+
+
+
+What is something you learned by reviewing this group's project?
+I did not know that you can make the game screen that small!
+ 
+
+In what ways does this game reflect the theme?
+The tetris blocks contained the COVID-19 symbol. 
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+I love that they had the instructions on the main menu instead of having the instructions just in the about me. I would definitely include this on my games main menu.
+ 
+
+What suggestions would you have for this group to improve the game?
+I think that they should just fix the bugs of the blocks falling. I've played this game multiple times and each game I only get one set of random blocks.
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+Nope, nothing was confusing!
+ 
+
+Is it clear that every group member participated?
+Yes, it's clear.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes, it does. 
+ 
+
+What is something the group could add to the README.md to make it more descriptive?
+I don't think they have to add anything in thr README. I believe this because they listed the game instructions on the main menu of the game as well. 
+ 
+
+Pay a compliment to the group based on the quality of the game.
+This game is such a good idea! And I also love the choice of font that is used in the main menu, this gives this game a lot of juiciness. 
+
+
+How many of your points would you allocate to this project?
+2
+
